@@ -1,0 +1,27 @@
+::1  -  2023-7-14 @ 20:01:54
+[GcS Team][+]━━━━━━━━【💖 NetFlix log 💖】━━━━━━━━[+][GcS Team]
+|Email      : lule@gmail.com
+|Password      	 : 321321
+[+]━━━━━━━━【💻 System INFO】━━━━━━━━[+]
+::1
+Country : 
+City: 
+Region : 
+State: 
+Zip : 
+country code: 
+lat: 
+lon: 
+timezone: 
+isp: 
+as: 
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+[GcS Team][+]━━━━━━━━【💖 NetFlix log 💖】━━━━━━━━[+][GcS Team]
+::1  -  2023-7-14 @ 20:02:04
+[GcS Team][+]━━━━━━━━【💖 NetFlix log 💖】━━━━━━━━[+][GcS Team]
+|Card Holder      	 : 12321dwa
+|[💳 Credit Card Number]     	 : 3213 213
+|[🔄 Expiry Date ]     	 : 21321
+|[🔑 (CVV)]    	 : 2132
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+[GcS Team][+]━━━━━━━━【💖 NetFlix log 💖】━━━━━━━━[+][GcS Team]
